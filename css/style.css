@@ -1,0 +1,14 @@
+#map {
+    height: 800px;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    color: #bf2d28;
+}
+
+body{
+    background-color: black;
+}
