@@ -9,6 +9,12 @@ h1{
     color: #bf2d28;
 }
 
+h4 {
+    text-align: center;
+    font-family: Helvetica;
+    color: #bebebe;
+}
+
 body{
     background-color: black;
 }
